@@ -1,6 +1,7 @@
 {
 	"create-jar": {
 		"output-dir": "dist",
+		"output-filename": "react-widget.jar",
 		"features": {
 			"js-extender": true,
 			"web-context": "/react-widget",

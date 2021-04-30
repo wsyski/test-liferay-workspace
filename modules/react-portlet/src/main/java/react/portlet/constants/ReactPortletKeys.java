@@ -5,6 +5,6 @@ package react.portlet.constants;
  */
 public class ReactPortletKeys {
 
-	public static final String React = "react";
+	public static final String ReactPortlet = "react_portlet";
 
 }
