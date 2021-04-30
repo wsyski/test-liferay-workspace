@@ -1,0 +1,4 @@
+Bundle-Name: restbuilder-test
+Bundle-SymbolicName: com.liferay.rest.test
+Bundle-Version: 1.0.0
+-includeresource: com.liferay.rest.client.jar=../restbuilder-client/build/libs/com.liferay.rest.client-1.0.0.jar;lib:=true

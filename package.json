@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "modules/react-widget",
+            "modules/react-portlet"
+        ]
+    }
+}
