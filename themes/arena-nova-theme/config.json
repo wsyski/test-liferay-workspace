@@ -1,0 +1,11 @@
+{
+    "batchMode": true,
+    "answers": {
+        "*": {
+            "themeName": "Arena Nova Theme",
+            "themeId": "arena-nova-theme",
+            "liferayVersion": "7.4",
+            "fontAwesome": "true"
+        }
+    }
+}
