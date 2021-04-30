@@ -1,4 +1,68 @@
 {
+	"exclude": {
+		"core-js": true,
+		"classnames": true,
+		"deepmerge": true,
+		"dnd-core": true,
+		"formik": true,
+		"hoist-non-react-statics": true,
+		"js-tokens": true,
+		"lodash": true,
+		"loose-envify": true,
+		"object-assign": true,
+		"prop-types": true,
+		"react": true,
+		"react-dnd": true,
+		"react-dnd/asap": true,
+		"react-dnd/invariant": true,
+		"react-dnd/shallowequal": true,
+		"react-dnd-html5-backend": true,
+		"react-dom": true,
+		"react-fast-compare": true,
+		"react-is": true,
+		"redux": true,
+		"scheduler": true,
+		"symbol-observable": true,
+		"tiny-warning": true,
+		"tslib": true,
+		"warning": true
+	},
+	"config": {
+		"imports": {
+			"@liferay/frontend-js-react-web": {
+				"classnames": "*",
+				"deepmerge": "*",
+				"dnd-core": "*",
+				"formik": "*",
+				"hoist-non-react-statics": "*",
+				"js-tokens": "*",
+				"lodash": "*",
+				"loose-envify": "*",
+				"object-assign": "*",
+				"prop-types": "*",
+				"react": "*",
+				"react-dnd": "*",
+				"react-dnd/asap": "*",
+				"react-dnd/invariant": "*",
+				"react-dnd/shallowequal": "*",
+				"react-dnd-html5-backend": "*",
+				"react-dom": "*",
+				"react-fast-compare": "*",
+				"react-is": "*",
+				"redux": "*",
+				"scheduler": "*",
+				"symbol-observable": "*",
+				"tiny-warning": "*",
+				"warning": "*"
+			},
+			"@liferay/frontend-js-state-web": {
+				"/": "*"
+			},
+			"frontend-js-web": {
+				"/": ">=3.0.0"
+			}
+		}
+	},
 	"create-jar": {
 		"output-dir": "dist",
 		"output-filename": "react-widget.jar",
