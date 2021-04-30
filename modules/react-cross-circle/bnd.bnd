@@ -1,0 +1,5 @@
+Bundle-Name: react-cross-circle
+Bundle-SymbolicName: react-cross-circle
+Bundle-Version: 1.0.0
+Export-Package: react.cross.circle.constants
+Web-ContextPath: /react-cross-circle

@@ -3,6 +3,7 @@
     "workspaces": {
         "packages": [
             "modules/react-widget",
+            "modules/react-cross-circle",
             "modules/react-portlet"
         ]
     }
